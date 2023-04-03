@@ -1,0 +1,42 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Detailed-balance-solar-cell
+message: >-
+  Estimate and plot the conversion of solar power as a
+  function of the absorber's gap for a variety of solar cell
+  concepts.
+type: software
+authors:
+  - given-names: Mohamed
+    family-names: Amara
+    email: mohamed.amara@insa-lyon.fr
+    affiliation: INSA Lyon
+  - given-names: Daniel
+    family-names: Suchet
+    email: daniel.suchet@polytechnique.edu
+    affiliation: 'Ecole polytechnique, IPVF'
+    orcid: 'https://orcid.org/0000-0002-4034-1016'
+  - given-names: Thomas
+    family-names: Vezin
+    email: thomas.vezin.x15@polytechnique.edu
+    affiliation: 'Ecole polytechnique, IPVF'
+  - given-names: Hamidreza
+    family-names: Esmaielpour
+    email: Hamidreza.Esmaielpour@wsi.tum.de
+    affiliation: Technische Universität München
+    orcid: 'https://orcid.org/0000-0002-9432-8861'
+repository-code: 'https://github.com/IPVF/ISTE-book-chapter-High-Efficiency'
+abstract: >-
+  Estimate and plot the conversion of solar power as a
+  function of the absorber's gap for a variety of solar cell
+  concepts. For more details, see "Concepts avancées pour
+  une conversion photovoltaïque à très haut rendement", T.
+  Vezin et al. in "Solaire Photovoltaïque", ISTE, eds. JF
+  Guillemoles & A. Slaoui, 2023
+keywords:
+  - solar cell
+  - detailed balance
+  - Shockley Queisser
+license: CC-BY-SA-4.0
